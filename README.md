@@ -4,10 +4,10 @@ Membuat App Desktop Tiket Kereta Admin Counter
 
 KELOMPOK 5 - TIKET KERETA :
 
-1. Nahtaniel Iskandar
+1. -
 2. Deren Abrianno
-3. Muhamad Ibrahim Husin
-4. Narson Novian
+3. -
+4. -
 
 NOTE:
 - RUNNING MELALUI CLEAN & BUILD TERLEBIH DAHULU SETELAH CLONING
